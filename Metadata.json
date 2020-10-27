@@ -1,0 +1,20 @@
+{
+    "Author": "Manjunath Rao G",
+    "ContentSize": 4848,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/extract-user-list-from-azure-active-directory-to-an-excel-file/master/Get-AzureADUserList.ps1",
+    "DownloadCount": 7425,
+    "Id": "Extract-user-list-from-6cb9a93c",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 20,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-12-11T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Want to know about innovative and interesting ideas in Azure and automation? Check out my blog:\u00a0https://manjunathrao.com/This script will authenticate to your Azure Active Directory and fetch all the user details. Finally, it will save the details to the excel sheet.Below are the",
+    "Title": "Extract user list from Azure Active Directory to an excel file",
+    "UpdatedDate": "2019-1-5T00:00:00",
+    "Url": "https://github.com/azureautomation/extract-user-list-from-azure-active-directory-to-an-excel-file",
+    "UserTags": "Powershell, Powershell Script, azure active directory"
+}
